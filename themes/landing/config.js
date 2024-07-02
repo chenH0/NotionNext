@@ -12,7 +12,7 @@ const CONFIG = {
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
-  LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
+  LANDING_HERO_BUTTON_2_LINK: 'https://space.bilibili.com/402592391',
   LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
   LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
@@ -67,7 +67,7 @@ const CONFIG = {
   LANDING_PRICING_1_PRICE: '免费',
   LANDING_PRICING_1_CONTENT: '项目源代码,部署教程,不定时技术答疑',
   LANDING_PRICING_1_BUTTON: '开始体验',
-  LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
+  LANDING_PRICING_1_URL: 'https://space.bilibili.com/402592391',
 
   LANDING_PRICING_2_TITLE: '捐赠版',
   LANDING_PRICING_2_PRICE: '$9.9/月',
