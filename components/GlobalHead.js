@@ -95,6 +95,7 @@ const GlobalHead = props => {
 
   return (
     <Head>
+      <meta name="baidu-site-verification" content="codeva-pQYzVFiXYi" />
       <link rel='icon' href={favicon} />
       <title>{title}</title>
       <meta name='theme-color' content={BACKGROUND_DARK} />
